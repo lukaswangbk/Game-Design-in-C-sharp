@@ -1,0 +1,269 @@
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page3.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page3.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page4.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page4.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page5.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page5.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page6.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page6.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page7.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page7.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page8.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page8.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page9.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page9.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page10.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page10.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page11.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page11.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page12.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page12.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page13.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page13.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page14.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page14.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page15.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page15.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page16.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page16.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page17.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page17.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page18.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page18.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page19.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page19.g.cs
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.config
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.manifest
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.application
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.pdb
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.g.resources
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe.manifest
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.application
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.application
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.config
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.pdb
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.manifest
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.application
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.pdb
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.g.resources
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe.manifest
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page3.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page4.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page3.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page4.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page5.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page5.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page3.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page4.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page5.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page3.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page4.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Page5.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\WelcomePage.baml
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\WelcomePage.g.cs
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\GamePage.g.cs
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade_MarkupCompile.lref
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\GamePage.baml
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\WelcomePage.baml
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\GamePage.g.cs
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\WelcomePage.g.cs
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade_MarkupCompile.lref
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\GamePage.baml
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\wbk\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\CongratulationPage.g.cs
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\CongratulationPage.baml
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\FL\Desktop\Typing Game\WpfApplication1\obj\Debug\Ballade_Content.g.cs

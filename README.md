@@ -1,4 +1,4 @@
-# README
+# WPF Game Design
 This project contains two games implemented using WPF framework in C#.
 ## Typing Game
 This games breifly contains following features:

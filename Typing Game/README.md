@@ -6,6 +6,7 @@
 4. Health will be deducted by one once the words touch the bottom line (ground).
 
 ## Game Overview
+
 ![](pic/1.png)
 ![](pic/2.png)
 ![](pic/3.png)

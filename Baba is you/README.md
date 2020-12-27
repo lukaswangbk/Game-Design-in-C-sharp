@@ -78,3 +78,11 @@ In our project, we use Model-View Separation patten to decouple Model and View i
 In our project, we use Model-View-Controller patten to use different event handlers in WPF to handle the user input.
 ### Strategy
 In our project, we use Strategy patten to maintain the same running logic for any assigned focused hero element.
+### Game Overview
+#### Mode 1: WPF GUI
+![](pic/mode1.png)
+![](pic/mode1level.png)
+![](pic/mode1game.png)
+#### Mode 2: TextBox (underlying logic)
+![](pic/mode2.png)
+![](pic/mode2game.png)

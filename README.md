@@ -1,4 +1,5 @@
-# WPF Game Design
+<h1 align="center"> WPF Game Design</h1>
+
 This project contains two games implemented using WPF framework in C#.
 ## Typing Game
 This games breifly contains following features:

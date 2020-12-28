@@ -1,0 +1,763 @@
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page3.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page3.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page4.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page4.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page5.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page5.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page6.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page6.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page7.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page7.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page8.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page8.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page9.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page9.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page10.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page10.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page11.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page11.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page12.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page12.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page13.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page13.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page14.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page14.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page15.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page15.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page16.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page16.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page17.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page17.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page18.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page18.g.cs
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page19.baml
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Page19.g.cs
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.config
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.manifest
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.application
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe
+F:\VC\WpfApplication1\WpfApplication1\bin\Debug\Ballade.pdb
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.g.resources
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe.manifest
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.application
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe
+F:\VC\WpfApplication1\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.baml
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\Administrator\Desktop\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.application
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.config
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.pdb
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe.manifest
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.application
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.exe
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\bin\Debug\Ballade.pdb
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.baml
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page1.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page10.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page11.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page12.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page13.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page14.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page15.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page16.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page17.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page18.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page19.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page3.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page2.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page4.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page5.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page7.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page6.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page8.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Page9.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.g.resources
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.exe.manifest
+F:\program development\01-推箱子\WpfApplication1\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page1.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page3.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page2.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page4.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page1.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page3.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page2.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page4.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page5.baml
+C:\Users\FL\Desktop\Sokoban-master\WpfApplication1\obj\Debug\Page5.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\FL\Desktop\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+G:\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you version1_1\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you _122116\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122121\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122200\baba_is_you _122121\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122214\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122215\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you _122216\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+G:\baba_is_you _ version 1_9\baba_is_you _122222\baba_is_you\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you122302\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you122311\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage2.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage2.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\TextBoxGame1Page.baml
+C:\Users\FL\Desktop\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\TextBoxGame1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage2.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\TextBoxGamePage.baml
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\TextBoxGamePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you122321\baba_is_you122312\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage2.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\TextBoxGamePage.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\TextBoxGamePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+C:\Users\lukas\Desktop\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.config
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe.manifest
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.application
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.exe
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\bin\Debug\Ballade.pdb
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage2.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\TextBoxGamePage.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\HomePage.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\EndPage.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.baml
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage2.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\FailPage.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel2Page.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\TextBoxGamePage.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage2.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\HomePage.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel1Page.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\LevelChoosePage1.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\GameLevel2Page.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\EndPage.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\CongratulationLevel1Page.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\App.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade_Content.g.cs
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade_MarkupCompile.cache
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.g.resources
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.Properties.Resources.resources
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe.manifest
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.application
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.exe
+D:\Study\大三上\IERG3080\baba_is_you\baba_is_you\baba_is_you123012\baba_is_you\WpfApplication1\obj\Debug\Ballade.pdb

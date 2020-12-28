@@ -1,0 +1,47 @@
+﻿<Page x:Class="WpfApplication1.TextBoxGamePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d"
+      d:DesignWidth="900" Background="#FF2D2D2D" Visibility="Visible" MinWidth="900" MinHeight="530" MaxWidth="900" MaxHeight="530" Name="level1">
+    <Grid>
+        <Rectangle Fill="#FF1E1E1E" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="870"/>
+        <Button Content="" HorizontalAlignment="Right" VerticalAlignment="Top" 
+                    Width="30" Height="30" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="Button_Click_2" Margin="0,0,0,0">
+            <Button.Background>
+                <ImageBrush ImageSource="MySource/exit.png"/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Margin="10,3,0,0" VerticalAlignment="Top" Height="22" Source="MySource/icon.png"/>
+        <Label Content="Fake Baba is You" HorizontalAlignment="Left" Margin="40,0,0,0" VerticalAlignment="Top" Background="Transparent" Foreground="White" FontFamily="/SokobanGame;component/Resources/fonts/#Peepo"/>
+        <Button Content="" HorizontalAlignment="Left" Height="25" Margin="825,35,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" FontFamily="MySource/font/#Peepo" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="MySource/goback.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="25" Margin="0,35,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" FontFamily="MySource/font/#Peepo" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="MySource/restart.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="MainMap" IsReadOnly="False" Margin="262,70,261,92" TextWrapping="Wrap" FontSize="18" Text=""/>
+        <Button Content="UP" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Height="30" Margin="80,485,0,0" Click="Button_Click_Up"/>
+        <Button Content="DOWN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Height="30" Margin="245,485,0,0" Click="Button_Click_Down"/>
+        <Button Content="LEFT" HorizontalAlignment="Right" VerticalAlignment="Top" Width="80" Height="30" Margin="0,485,410,0" Click="Button_Click_Left"/>
+        <Button Content="RIGHT" HorizontalAlignment="Right" VerticalAlignment="Top" Width="80" Height="30" Margin="0,485,245,0" Click="Button_Click_Right"/>
+        <Button Content="UNDO" HorizontalAlignment="Right" VerticalAlignment="Top" Width="80" Height="30" Margin="0,485,80,0" Click="Button_Click_Undo"/>
+    </Grid>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <EventTrigger.Actions>
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" To="1" Duration="0:0:0.5" Storyboard.TargetName="level1" From="0">
+                        </DoubleAnimation>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger.Actions>
+        </EventTrigger>
+    </Page.Triggers>
+</Page>

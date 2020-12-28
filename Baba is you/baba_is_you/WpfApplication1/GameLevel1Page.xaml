@@ -1,0 +1,207 @@
+﻿<Page x:Class="WpfApplication1.GameLevel1Page"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        mc:Ignorable="d"
+        d:DesignWidth="900" Background="#FF2D2D2D" Visibility="Visible" MinWidth="900" MinHeight="530" MaxWidth="900" MaxHeight="530" Name="level1">
+    <Grid>
+        <Rectangle Fill="#FF1E1E1E" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="870" Grid.ColumnSpan="2"/>
+        <Button Content="" HorizontalAlignment="Right" VerticalAlignment="Top" 
+                    Width="30" Height="30" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="Button_Click_2" Margin="0,0,-1,0" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="MySource/exit.png"/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Margin="10,3,0,0" VerticalAlignment="Top" Height="22" Source="MySource/icon.png" Width="19"/>
+        <Label Content="Fake Baba is You" HorizontalAlignment="Left" Margin="40,0,0,0" VerticalAlignment="Top" Background="Transparent" Foreground="White" FontFamily="/SokobanGame;component/Resources/fonts/#Peepo" Height="24" Width="98"/>
+        <Button Content="" HorizontalAlignment="Left" Height="25" Margin="825,35,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" FontFamily="MySource/font/#Peepo" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="MySource/goback.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="25" Margin="0,35,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" FontFamily="MySource/font/#Peepo" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="MySource/restart.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Grid x:Name="MainMap"  Margin="50,65" >
+            <Grid.RowDefinitions>
+                <RowDefinition x:Name="Row0" Height="25*" />
+                <RowDefinition x:Name="Row1" Height="25*" />
+                <RowDefinition x:Name="Row2" Height="25*" />
+                <RowDefinition x:Name="Row3" Height="25*" />
+                <RowDefinition x:Name="Row4" Height="25*" />
+                <RowDefinition x:Name="Row5" Height="25*" />
+                <RowDefinition x:Name="Row6" Height="25*" />
+                <RowDefinition x:Name="Row7" Height="25*" />
+                <RowDefinition x:Name="Row8" Height="25*" />
+                <RowDefinition x:Name="Row9" Height="25*" />
+                <RowDefinition x:Name="Row10" Height="25*" />
+                <RowDefinition x:Name="Row11" Height="25*" />
+                <RowDefinition x:Name="Row12" Height="25*" />
+                <RowDefinition x:Name="Row13" Height="25*" />
+                <RowDefinition x:Name="Row14" Height="25*" />
+                <RowDefinition x:Name="Row15" Height="25*" />
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition x:Name="Column0" Width="25*" />
+                <ColumnDefinition x:Name="Column1" Width="25*" />
+                <ColumnDefinition x:Name="Column2" Width="25*" />
+                <ColumnDefinition x:Name="Column3" Width="25*" />
+                <ColumnDefinition x:Name="Column4" Width="25*" />
+                <ColumnDefinition x:Name="Column5" Width="25*" />
+                <ColumnDefinition x:Name="Column6" Width="25*" />
+                <ColumnDefinition x:Name="Column7" Width="25*" />
+                <ColumnDefinition x:Name="Column8" Width="25*" />
+                <ColumnDefinition x:Name="Column9" Width="25*" />
+                <ColumnDefinition x:Name="Column10" Width="25*" />
+                <ColumnDefinition x:Name="Column11" Width="25*" />
+                <ColumnDefinition x:Name="Column12" Width="25*" />
+                <ColumnDefinition x:Name="Column13" Width="25*" />
+                <ColumnDefinition x:Name="Column14" Width="25*" />
+                <ColumnDefinition x:Name="Column15" Width="25*" />
+                <ColumnDefinition x:Name="Column16" Width="25*" />
+                <ColumnDefinition x:Name="Column17" Width="25*" />
+                <ColumnDefinition x:Name="Column18" Width="25*" />
+                <ColumnDefinition x:Name="Column19" Width="25*" />
+                <ColumnDefinition x:Name="Column20" Width="25*" />
+                <ColumnDefinition x:Name="Column21" Width="25*" />
+                <ColumnDefinition x:Name="Column22" Width="25*" />
+                <ColumnDefinition x:Name="Column23" Width="25*" />
+                <ColumnDefinition x:Name="Column24" Width="25*" />
+                <ColumnDefinition x:Name="Column25" Width="25*" />
+                <ColumnDefinition x:Name="Column26" Width="25*" />
+                <ColumnDefinition x:Name="Column27" Width="25*" />
+                <ColumnDefinition x:Name="Column28" Width="25*" />
+                <ColumnDefinition x:Name="Column29" Width="25*" />
+                <ColumnDefinition x:Name="Column30" Width="25*" />
+                <ColumnDefinition x:Name="Column31" Width="25*" />
+            </Grid.ColumnDefinitions>
+            
+            <Canvas x:Name="Canvas1" Background="#FF2D2D2D" Grid.ColumnSpan="32" Grid.RowSpan="16" >
+                <Image x:Name="background" Source="MySource/baba is you/background.jpg" Stretch="UniformToFill" Height="400" Canvas.Top="0" Width="800" Canvas.Left="0"/>
+                <Image Canvas.Left="200" Canvas.Top="200"  x:Name="Genius" Width="25"  Height="25"  KeyDown="Genius_KeyDown" ScrollViewer.HorizontalScrollBarVisibility="Auto" LostKeyboardFocus="Genius_LostKeyboardFocus" Source="MySource/正向站立.png" Focusable="True" IsHitTestVisible="True" FocusVisualStyle="{x:Null}" KeyUp="Genius_KeyUp">
+                    <Image.RenderTransform>
+                        <TranslateTransform x:Name="aa" X="0" Y="0"/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:Name="undo" Source="MySource/baba is you/Undo.png"  Stretch="Uniform" Height="50" Canvas.Top="25" Width="100" Canvas.Left="350" />
+                <Image x:Name="move" Source="MySource/baba is you/move.png"  Stretch="Uniform" Height="50" Canvas.Top="325" Width="100" Canvas.Left="350" />
+                <Image x:Name="is1" Source="MySource/baba is you/is.jpg"  Stretch="Uniform" Height="25" Canvas.Top="50" Width="25" Canvas.Left="25" />
+                <Image x:Name="baba" Source="MySource/baba is you/baba.jpg"  Stretch="Uniform" Height="25" Canvas.Top="50" Width="25" Canvas.Left="0" />
+                <Image x:Name="you" Source="MySource/baba is you/you.JPG"  Stretch="Uniform" Height="25" Canvas.Top="50" Width="25" Canvas.Left="50" />
+                <Image x:Name="flag" Source="MySource/baba is you/flag.JPG"  Stretch="Uniform" Height="25" Canvas.Top="50" Width="25" Canvas.Left="725" />
+                <Image x:Name="is2" Source="MySource/baba is you/is.jpg"  Stretch="Uniform" Height="25" Canvas.Top="50" Width="25" Canvas.Left="750" />
+                <Image x:Name="win" Source="MySource/baba is you/win.JPG"  Stretch="Uniform" Height="25" Canvas.Top="50" Width="25" Canvas.Left="775" />
+                <Image x:Name="flag_pic" Source="MySource/baba is you/flag_pic.JPG"  Stretch="Uniform" Height="25" Canvas.Top="200" Width="25" Canvas.Left="700" />
+                <Image x:Name="wall" Source="MySource/baba is you/wall.jpg"  Stretch="Uniform" Height="25" Canvas.Top="325" Width="25" Canvas.Left="0" />
+                <Image x:Name="is3" Source="MySource/baba is you/is.jpg"  Stretch="Uniform" Height="25" Canvas.Top="325" Width="25" Canvas.Left="25" />
+                <Image x:Name="stop" Source="MySource/baba is you/stop.png"  Stretch="Uniform" Height="25" Canvas.Top="325" Width="25" Canvas.Left="50" />
+                <Image x:Name="rock" Source="MySource/baba is you/rock.JPG"  Stretch="Uniform" Height="25" Canvas.Top="325" Width="25" Canvas.Left="725" />
+                <Image x:Name="is4" Source="MySource/baba is you/is.jpg"  Stretch="Uniform" Height="25" Canvas.Top="325" Width="25" Canvas.Left="750" />
+                <Image x:Name="push" Source="MySource/baba is you/push.JPG"  Stretch="Uniform" Height="25" Canvas.Top="325" Width="25" Canvas.Left="775" />
+                <Image x:Name="skull" Source="MySource/baba is you/skull.png"  Stretch="Uniform" Height="25" Canvas.Top="350" Width="25" Canvas.Left="725" />
+                <Image x:Name="is5" Source="MySource/baba is you/is.jpg"  Stretch="Uniform" Height="25" Canvas.Top="350" Width="25" Canvas.Left="750" />
+                <Image x:Name="defeat" Source="MySource/baba is you/defeat.png"  Stretch="Uniform" Height="25" Canvas.Top="350" Width="25" Canvas.Left="775" />
+                <Image x:Name="skull_pic" Source="MySource/baba is you/skull_pic.png"  Stretch="Uniform" Height="25" Canvas.Top="200" Width="25" Canvas.Left="75" />
+                <Image x:Name="wall_1" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="0" />
+                <Image x:Name="wall_2" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="25" />
+                <Image x:Name="wall_3" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="50" />
+                <Image x:Name="wall_4" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="75" />
+                <Image x:Name="wall_5" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="100" />
+                <Image x:Name="wall_6" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="125" />
+                <Image x:Name="wall_7" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="150" />
+                <Image x:Name="wall_8" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="175" />
+                <Image x:Name="wall_9" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="200" />
+                <Image x:Name="wall_10" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="225" />
+                <Image x:Name="wall_11" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="250" />
+                <Image x:Name="wall_12" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="275" />
+                <Image x:Name="wall_13" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="300" />
+                <Image x:Name="wall_14" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="325" />
+                <Image x:Name="wall_15" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="350" />
+                <Image x:Name="wall_16" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="375" />
+                <Image x:Name="wall_17" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="400" />
+                <Image x:Name="wall_18" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="425" />
+                <Image x:Name="wall_19" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="450" />
+                <Image x:Name="wall_20" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="475" />
+                <Image x:Name="wall_21" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="500" />
+                <Image x:Name="wall_22" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="525" />
+                <Image x:Name="wall_23" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="550" />
+                <Image x:Name="wall_24" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="575" />
+                <Image x:Name="wall_25" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="600" />
+                <Image x:Name="wall_26" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="625" />
+                <Image x:Name="wall_27" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="650" />
+                <Image x:Name="wall_28" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="675" />
+                <Image x:Name="wall_29" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="700" />
+                <Image x:Name="wall_30" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="725" />
+                <Image x:Name="wall_31" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="750" />
+                <Image x:Name="wall_32" Source="MySource/baba is you/wall_pic_up.jpg"  Stretch="Uniform" Height="25" Canvas.Top="100" Width="25" Canvas.Left="775" />
+                <Image x:Name="wall_33" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="0" />
+                <Image x:Name="wall_34" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="25" />
+                <Image x:Name="wall_35" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="50" />
+                <Image x:Name="wall_36" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="75" />
+                <Image x:Name="wall_37" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="100" />
+                <Image x:Name="wall_38" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="125" />
+                <Image x:Name="wall_39" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="150" />
+                <Image x:Name="wall_40" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="175" />
+                <Image x:Name="wall_41" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="200" />
+                <Image x:Name="wall_42" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="225" />
+                <Image x:Name="wall_43" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="250" />
+                <Image x:Name="wall_44" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="275" />
+                <Image x:Name="wall_45" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="300" />
+                <Image x:Name="wall_46" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="325" />
+                <Image x:Name="wall_47" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="350" />
+                <Image x:Name="wall_48" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="375" />
+                <Image x:Name="wall_49" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="400" />
+                <Image x:Name="wall_50" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="425" />
+                <Image x:Name="wall_51" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="450" />
+                <Image x:Name="wall_52" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="475" />
+                <Image x:Name="wall_53" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="500" />
+                <Image x:Name="wall_54" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="525" />
+                <Image x:Name="wall_55" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="550" />
+                <Image x:Name="wall_56" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="575" />
+                <Image x:Name="wall_57" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="600" />
+                <Image x:Name="wall_58" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="625" />
+                <Image x:Name="wall_59" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="650" />
+                <Image x:Name="wall_60" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="675" />
+                <Image x:Name="wall_61" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="700" />
+                <Image x:Name="wall_62" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="725" />
+                <Image x:Name="wall_63" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="750" />
+                <Image x:Name="wall_64" Source="MySource/baba is you/wall_pic_down.jpg"  Stretch="Uniform" Height="25" Canvas.Top="275" Width="25" Canvas.Left="775" />
+                <Image x:Name="rock_1" Source="MySource/baba is you/rock_pic.JPG"  Stretch="Uniform" Height="25" Canvas.Top="200" Width="25" Canvas.Left="500">
+                    <Image.RenderTransform>
+                        <TranslateTransform x:Name="b1" X="0" Y="0"/>
+                    </Image.RenderTransform>
+                </Image>
+
+                <Image x:Name="rock_2" Source="MySource/baba is you/rock_pic.JPG"  Stretch="Uniform" Height="25" Canvas.Top="175" Width="25" Canvas.Left="500">
+                    <Image.RenderTransform>
+                        <TranslateTransform x:Name="b2" X="0" Y="0"/>
+                    </Image.RenderTransform>
+                </Image>
+
+                <Image x:Name="rock_3" Source="MySource/baba is you/rock_pic.JPG"  Stretch="Uniform" Height="25" Canvas.Top="225" Width="25" Canvas.Left="500">
+                    <Image.RenderTransform>
+                        <TranslateTransform x:Name="b3" X="0" Y="0"/>
+                    </Image.RenderTransform>
+                </Image>
+            </Canvas>
+        </Grid>
+    </Grid>
+    
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <EventTrigger.Actions>
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetProperty="Opacity" To="1" Duration="0:0:0.5" Storyboard.TargetName="level1" From="0">
+                        </DoubleAnimation>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger.Actions>
+        </EventTrigger>
+    </Page.Triggers>
+</Page>
+

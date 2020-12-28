@@ -1,5 +1,4 @@
 # Design Overview
-###### *Remark: because of the size limitation of GitHub. Please check this game through [Google Drive Link](https://drive.google.com/file/d/13WRB6cAD2tWMnKBLcsy7sPmhq7ysley_/view?usp=sharing).
 ## Page Design
 In this game, we totally have one MainWindow and 11 other pages.
 - **HomePage** is served as the start screen
